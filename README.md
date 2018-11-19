@@ -1,2 +1,8 @@
 # linearFunc
 Phys Project
+
+This small program will find the linear functions between two sets of data. 
+Output will produce in a function format.
+Example: 2x+1, x , 3x , etc.
+
+This small program is written in Python.
