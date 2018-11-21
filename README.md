@@ -1,7 +1,7 @@
 # linearFunc
 
 **_Phys Project_1_**
-###### (Fall 2018 Phys Course Project)
+###### (Fall 2018 Course)
 
 This small program will find the linear functions between two sets of data. 
 Output will produce in a function format.
